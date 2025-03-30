@@ -12,3 +12,5 @@ The projects in this repository include coursework assignments, personal project
 ## Technologies Used
 - Programming Languages: Java & C
 - Tools: Git, VS Code & Eclipse
+
+BPM data provided by [GetSongBPM](https://getsongbpm.com)
